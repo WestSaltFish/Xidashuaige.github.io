@@ -1,0 +1,22 @@
+span
+{
+color : blue;
+}
+
+.myHeader
+{
+    text-align: center;
+    color:#1f1f1f
+}
+
+.box
+{
+    text-align:justify;
+    margin: 50px;
+    color:#1f1f1f;
+}
+
+a
+{
+    color: rgba(1,1,1, 0)
+}
